@@ -14,4 +14,4 @@ Meus projetos realizados no curso de Engenharia Mecânica na Universidade Federa
 - [Descrição simbólica de um sistema com dois graus de liberdade](https://github.com/IanViotti/Projetos-Unifei/blob/main/Vibra%C3%A7%C3%B5es/2DOF_Vibration.ipynb)
 
 # Termidinâmica
-- [Banço energiético e diagrama de Sankey](https://github.com/IanViotti/Projetos-Unifei/blob/main/Termodinamica/Central%20Diesel.ipynb)
+- [Banço energiético e diagrama de Sankey de uma central à Diesel](https://github.com/IanViotti/Projetos-Unifei/blob/main/Termodinamica/Central%20Diesel.ipynb)
